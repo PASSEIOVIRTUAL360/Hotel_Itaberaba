@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node2" appversion="7.1.7" apprev="20981">
+  <panorama id="node2">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="65.9019">
+      <start fov="123" projection="4" pan="-21.82" tilt="-1.64"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node2" streetviewlink="https://www.google.com/maps/@-12.5141891,-40.3054541,3a,75y,87.72h,90t/data=!3m4!1e1!3m2!1sCIABIhAGbzzgWS23EmfKIZAACoSm!2e10" heading="65.9019" latitude="-12.51418908" customnodeid="" longitude="-40.30545410" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:48:02"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-22.2364" distance="3.73077" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node1}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="40.9558">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node1" streetviewlink="https://www.google.com/maps/@-12.514188,-40.3054197,3a,75y,40.96h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKIgkABIDh!2e10" heading="40.9558" latitude="-12.51418799" customnodeid="" longitude="-40.30541975" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:48:07"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="132.818" distance="3.73077" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node2}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="-50.6193" distance="4.00496" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node3}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="154.208">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node3" streetviewlink="https://www.google.com/maps/@-12.514189,-40.3053829,3a,75y,154.21h,90t/data=!3m4!1e1!3m2!1sCIABIhAGbyfQ9CqfaWfKIZMADI66!2e10" heading="154.208" latitude="-12.51418898" customnodeid="" longitude="-40.30538287" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:59:43"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="242.633" distance="4.00496" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node1}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="133.651" distance="3.73135" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node4}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="334.208" distance="3.93074" description="" target="$fwd" id="Point03" title="Hotel Itaberaba" url="{node6}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="153.202">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node4" streetviewlink="https://www.google.com/maps/@-12.5141576,-40.3053708,3a,75y,153.2h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKIl0AC1rO!2e10" heading="153.202" latitude="-12.51415756" customnodeid="" longitude="-40.30537080" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 04:01:11"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="312.645" distance="3.73135" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node3}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="48.0895" distance="4.18396" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node5}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="57.6926">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node5" streetviewlink="https://www.google.com/maps/@-12.5141674,-40.3053336,3a,75y,57.69h,90t/data=!3m4!1e1!3m2!1sCIABIhADyc5Uqx5EBWfKIl4ACUB6!2e10" heading="57.6926" latitude="-12.51416737" customnodeid="" longitude="-40.30533359" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:59:17"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="132.58" distance="4.18396" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node4}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="151.316">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node6" streetviewlink="https://www.google.com/maps/@-12.5142243,-40.3053829,3a,75y,151.32h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKIs4AAWtA!2e10" heading="151.316" latitude="-12.51422433" customnodeid="" longitude="-40.30538287" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:59:18"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="151.316" distance="3.93074" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node3}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="240.822" distance="4.2587" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node7}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="-26.4617" distance="3.7512" description="" target="$fwd" id="Point03" title="Hotel Itaberaba" url="{node8}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="137.263">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node7" streetviewlink="https://www.google.com/maps/@-12.514224,-40.3054221,3a,75y,137.26h,90t/data=!3m4!1e1!3m2!1sCIABIhADyc5Uqx5EBWfKIyMADpQF!2e10" heading="137.263" latitude="-12.51422400" customnodeid="" longitude="-40.30542210" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:48:02"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="46.7693" distance="4.2587" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node6}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="119.553">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node8" streetviewlink="https://www.google.com/maps/@-12.514258,-40.3053815,3a,75y,119.55h,90t/data=!3m4!1e1!3m2!1sCIABIhADyc5Uqx5EBWfKIyYACxVA!2e10" heading="119.553" latitude="-12.51425804" customnodeid="" longitude="-40.30538153" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:52:16"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="121.775" distance="3.7512" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node6}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="209.034" distance="3.93087" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node9}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="-52.5326" distance="4.22563" description="" target="$fwd" id="Point03" title="Hotel Itaberaba" url="{node10}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="186.602">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node9" streetviewlink="https://www.google.com/maps/@-12.5142577,-40.3054177,3a,75y,186.6h,90t/data=!3m4!1e1!3m2!1sCIABIhADyc5Uqx5EBWfKIycAAUzr!2e10" heading="186.602" latitude="-12.51425772" customnodeid="" longitude="-40.30541774" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:48:00"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="96.0833" distance="3.93087" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node8}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="156.093">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node10" streetviewlink="https://www.google.com/maps/@-12.5142957,-40.3053762,3a,75y,156.09h,90t/data=!3m4!1e1!3m2!1sCIABIhAGbwPTnDeJm2fKI_IABHIc!2e10" heading="156.093" latitude="-12.51429568" customnodeid="" longitude="-40.30537617" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:55:11"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="164.007" distance="4.22563" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node8}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="-20.3261" distance="4.08438" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node11}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="191.973">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node11" streetviewlink="https://www.google.com/maps/@-12.5143323,-40.3053738,3a,75y,191.97h,90t/data=!3m4!1e1!3m2!1sCIABIhAGbzzgWS23EmfKI_MADHfB!2e10" heading="191.973" latitude="-12.51433234" customnodeid="" longitude="-40.30537382" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 04:02:37"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="195.554" distance="4.08438" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node10}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="326.984" distance="3.80951" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node12}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="151.815">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node12" streetviewlink="https://www.google.com/maps/@-12.5143566,-40.3053986,3a,75y,151.82h,90t/data=!3m4!1e1!3m2!1sCIABIhAGbzzgWS23EmfKI_UAACGy!2e10" heading="151.815" latitude="-12.51435657" customnodeid="" longitude="-40.30539863" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:52:02"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="106.826" distance="3.80951" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node11}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="330.106" distance="3.63992" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node13}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="175.655">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node13" streetviewlink="https://www.google.com/maps/@-12.5143893,-40.3053996,3a,75y,175.65h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKJLsACeSz!2e10" heading="175.655" latitude="-12.51438929" customnodeid="" longitude="-40.30539963" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:52:14"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="173.946" distance="3.63992" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node12}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="354.633" distance="4.07817" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node14}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="270.935" distance="4.34973" description="" target="$fwd" id="Point03" title="Hotel Itaberaba" url="{node16}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="165.134">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node14" streetviewlink="https://www.google.com/maps/@-12.514426,-40.3054003,3a,75y,165.13h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKJLwADS8A!2e10" heading="165.134" latitude="-12.51442596" customnodeid="" longitude="-40.30540030" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:55:11"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="164.112" distance="4.07817" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node13}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="264.787" distance="3.24941" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node15}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="219.775">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node15" streetviewlink="https://www.google.com/maps/@-12.5144309,-40.3054298,3a,75y,219.77h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzLghhtWfKJL4AA_bZ!2e10" heading="219.775" latitude="-12.51443086" customnodeid="" longitude="-40.30542981" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:59:16"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="139.428" distance="3.24941" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node14}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="233.806" distance="4.35192" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node16}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1" width="5000" levelbiashidpi="1.000" height="5000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="5000" height="5000"/>
+      <level preload="0" predecode="0" width="2500" height="2500"/>
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-17.279">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" description="" tags="OFIII" source="" nodeid="node16" streetviewlink="https://www.google.com/maps/@-12.5143929,-40.3054395,3a,75y,342.72h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3iUkDx4gpGfKJWsADxhh!2e10" heading="-17.279" latitude="-12.51439289" customnodeid="" longitude="-40.30543953" title="Hotel Itaberaba" comment="" copyright="" author="" datetime="2025:03:06 03:56:15"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" backgroundalpha="1" width="180" borderradius="1" textalpha="1" textcolor="0x000000" borderalpha="1" border="1" bordercolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-183.248" distance="4.35192" description="" target="$fwd" id="Point01" title="Hotel Itaberaba" url="{node15}" tilt="0"/>
+      <hotspot skinid="ht_node" pan="-101.999" distance="4.34973" description="" target="$fwd" id="Point02" title="Hotel Itaberaba" url="{node13}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="mesh" blendtime="1" zoomfov="40" zoomout="0" zoomin="7" zoomafteroutfov="40" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" rubberband="0" simulatemass="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" title="" comment="" copyright="" author="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
